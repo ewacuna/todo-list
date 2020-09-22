@@ -2,6 +2,4 @@
 
 This is a simple To-Do List app built with React
 
-## :computer: Preview
-
-[Live Preview](https://todo-app-ea.netlify.app/)
+#### [See Demo](https://todo-app-ea.netlify.app/)
